@@ -1,0 +1,173 @@
+{
+    "code":0,
+    "msg":"",
+    "list":[
+        {
+            "groupname": "闪耀之星",
+            "groupimage":"./assets/images/shanyaozhixing.jpg",
+            "list": [{
+                    "id": "1",
+                    "title": "酷炫停球",
+                    "content": "6月16日，法国队球员格列兹曼（右）在比赛中停球。新华社记者 吴壮 摄",
+                    "image": "./assets/images/1-1.png"
+                }, {
+                    "id": "2",
+                    "title": "伤心梅西",
+                    "content": "6月16日，阿根廷队球员梅西对于平局的结果表示无奈。新华社记者 王毓国 摄",
+                    "image": "./assets/images/1-2.png"
+                },
+                {
+                    "id": "3",
+                    "title": "硬核男子",
+                    "content": "6月17日，塞尔维亚队球员科拉罗夫在赛后庆祝胜利。新华社记者 费茂华 摄",
+                    "image": "./assets/images/1-3.png"
+                },
+                {
+                    "id": "4",
+                    "title": "好开心要抱抱",
+                    "content": "6月18日，比利时队球员卢卡库在进球后庆祝。新华社记者 杜宇 摄",
+                    "image": "./assets/images/1-4.png"
+                }, {
+                    "id": "5",
+                    "title": "庆祝之吻",
+                    "content": "6月14日，俄罗斯队球员切里舍夫在比赛中庆祝自己攻入的球队第四粒进球。新华社记者 杨磊 摄",
+                    "image": "./assets/images/1-5.png"
+                }, {
+                    "id": "6",
+                    "title": "喜提两球",
+                    "content": "6月18日，英格兰队球员凯恩在比赛中庆祝进球。新华社记者 陈诚 摄",
+                    "image": "./assets/images/1-6.png"
+                }, {
+                    "id": "7",
+                    "title": "赛前祈祷",
+                    "content": "6月17日，巴西队球员内马尔在开赛前。新华社记者 李尕 摄",
+                    "image": "./assets/images/1-7.png"
+                }, {
+                    "id": "8 ",
+                    "title": "深呼C",
+                    "content": "6月15日，葡萄牙队球员克里斯蒂亚诺·罗纳尔多准备主罚任意球。新华社记者 李尕 摄",
+                    "image": "./assets/images/1-8.png"
+                }
+            ]
+        },
+        {
+            "groupname": "燃情球场",
+            "groupimage":"./assets/images/ranqingqiuchang.jpg",
+            "list": [{
+                "id": "9",
+                "title": "开张大吉",
+                "content": "6月14日，俄罗斯队球员加辛斯基（中）在比赛中庆祝本届世界杯首粒进球。新华社记者 曹灿 摄",
+                "image": "./assets/images/2-1.png"
+            }, {
+                "id": "10",
+                "title": "让我上天",
+                "content": "6月14日，俄罗斯队球员久巴（左）在比赛中庆祝第三粒进球。新华社记者 陈诚 摄",
+                "image": "./assets/images/2-2.png"
+            }, {
+                "id": "11",
+                "title": "问你服不服",
+                "content": "6月15日，葡萄牙队球员克·罗纳尔多（左）在比赛中庆祝进球。新华社记者 陈益宸 摄",
+                "image": "./assets/images/2-3.png"
+            }, {
+                "id": "12",
+                "title": "感到捉急",
+                "content": "6月15日，西班牙队主帅耶罗（左）在场边指挥。新华社记者 李尕 摄",
+                "image": "./assets/images/2-4.png"
+            }, {
+                "id": "13",
+                "title": "钢铁兄弟情",
+                "content": "6月16日，克罗地亚队球员莫德里奇（左四）在比赛中与队友庆祝进球。新华社记者 陈诚 摄",
+                "image": "./assets/images/2-5.png"
+            }, {
+                "id": "14",
+                "title": "叠叠乐",
+                "content": "6月19日，塞内加尔队球员在比赛中庆祝进球。新华社记者 费茂华 摄",
+                "image": "./assets/images/2-6.png"
+            }, {
+                "id": "15",
+                "title": "咆哮男孩",
+                "content": "6月17日，墨西哥队球员洛萨诺（左）在比赛中与队友庆祝进球。新华社记者 王毓国 摄",
+                "image": "./assets/images/2-7.png"
+            }]
+        },{
+            "groupname": "球迷盛会",
+            "groupimage": "./assets/images/qiumishenghui.jpg",
+            "list": [{
+                "id": "16",
+                "title": "双子座",
+                "content": "6月15日，伊朗队球迷在开赛前。新华社记者 李明 摄",
+                "image": "./assets/images/3-1.png"
+            }, {
+                "id": "17",
+                "title": "静静看你",
+                "content": "6月16日，一名阿根廷队球迷在比赛前为球队助威。新华社记者 曹灿 摄",
+                "image": "./assets/images/3-2.png"
+            }, {
+                "id": "18",
+                "title": "充满期待",
+                "content": "6月17日，巴西队球迷在开赛前为球队助威。新华社记者 李明 摄",
+                "image": "./assets/images/3-3.png"
+            }, {
+                "id": "19",
+                "title": "美丽小姐姐的爱",
+                "content": "6月19日，波兰队球迷在比赛前。新华社记者 叶平凡 摄",
+                "image": "./assets/images/3-4.png"
+            }, {
+                "id": "20",
+                "title": "萌即正义",
+                "content": "6月18日，一名英格兰队的小球迷在比赛前。新华社记者 陈诚 摄",
+                "image": "./assets/images/3-5.png"
+            }]
+        }, 
+        {
+            "groupname": "精彩定格",
+            "groupimage":"./assets/images/jingcaidingge.jpg",
+            "list": [{
+                "id": "21",
+                "title": "亏大发了",
+                "content": "6月15日，摩洛哥队球员布哈杜兹（左一）在比赛中自摆乌龙。新华社记者 鲁金博 摄",
+                "image": "./assets/images/4-1.png"
+            }, {
+                "id": "22",
+                "title": "突破重围",
+                "content": "6月15日，葡萄牙队球员克·罗纳尔多（中）与西班牙队球员皮克（右）拼抢。新华社记者 李尕 摄",
+                "image": "./assets/images/4-2.png"
+            }, {
+                "id": "23",
+                "title": "导演好棒",
+                "content": "6月16日，阿根廷队球员梅西的点球被冰岛门将哈尔多松扑出。新华社记者 曹灿 摄",
+                "image": "./assets/images/4-3.png"
+            }, {
+                "id": "24",
+                "title": "风一般的男子",
+                "content": "6月17日，墨西哥队球员贝拉在比赛中带球突破。新华社记者 曹灿 摄",
+                "image": "./assets/images/4-4.png"
+            }, {
+                "id": "25",
+                "title": "铁头功",
+                "content": "6月17日，瑞士队球员祖贝尔（上左）在比赛中头球破门。新华社记者 李明 摄",
+                "image": "./assets/images/4-5.png"
+            }, {
+                "id": "26",
+                "title": "群雄尬舞",
+                "content": "6月17日，瑞士队球员舍尔（左二）与巴西队球员米兰达（右一）拼抢。新华社记者 李尕 摄",
+                "image": "./assets/images/4-6.png"
+            }, {
+                "id": "27",
+                "title": "拼到变形",
+                "content": "6月19日，哥伦比亚队球员伊思基耶多（右）与日本队球员原口元气在比赛中争抢。新华社记者 吕小炜 摄",
+                "image": "./assets/images/4-7.png"
+            }, {
+                "id": "28",
+                "title": "不要动手",
+                "content": "6月19日，哥伦比亚队球员卡·桑切斯（左一）因手球被裁判红牌罚下。新华社记者 吕小炜 摄",
+                "image": "./assets/images/4-8.png"
+            }, {
+                "id": "29",
+                "title": "玩个球儿",
+                "content": "6月17日，巴西队门将阿利松将落入场地内的气球踩破。新华社记者 李尕 摄",
+                "image": "./assets/images/4-9.png"
+            }]
+        }
+    ]
+}
