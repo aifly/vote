@@ -1,5 +1,5 @@
 <template>
-	<div v-tap='[entry]'  class="lt-full zmiti-index-main-ui "  :class="{'show':show}" >
+	<div  class="lt-full zmiti-index-main-ui "  :class="{'show':show}" >
 		<transition name='index'>
 			<div class="zmiti-index lt-full" ref='page' v-if='!showIndexMask' :style="{height:viewH+'px'}">
 				<section>
@@ -25,7 +25,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="zmiti-sure">
+					<div class="zmiti-sure" v-tap='[entryResultPage]'>
 						<img :src="imgs.sure" alt="">
 					</div>
 				</section>
@@ -107,41 +107,18 @@
 					url:'xxxx',
 				})
 			},
-			entry(){
-				
-				return;
+			
+			entryResultPage(){
 				var {obserable} = this;
-				this.showIndexMask = true;
-				this.showVideo = true;
-
-				setTimeout(()=>{
-					this.$refs['video'].addEventListener('play',()=>{
-		 				obserable.trigger({
-		 					type:"toggleBgMusic",
-		 					data:false
-		 				})
-		 			})
-
-		 			this.$refs['video'].addEventListener('ended',()=>{
-		 				/* obserable.trigger({
-		 					type:"toggleBgMusic",
-		 					data:true
-						 }); */
-						 
-						 obserable.trigger({
-							 type:'entryIntro'
-						 });
-		 			})
-
-		 			/* this.$refs['video'].addEventListener('pause',()=>{
-		 				this.show && this.$refs['video'].play()	
-					 }) */
-					 
-					 
-					this.$refs['video'].play()
-				},200)
+				
+				obserable.trigger({
+					type:"toggleMain",
+					data:{
+						show:true,
+						dataSource : this.dataSource
+					}
+				})
 			},
-
 			initPoints(){
 
 				var canvas = this.$refs['canvas'];

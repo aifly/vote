@@ -1,11 +1,17 @@
 ﻿var imgs = {
 	play: './assets/images/play.png',
 	title: './assets/images/title.jpg',
+	resultTitle: './assets/images/result-title.jpg',
 	point: './assets/images/point.png',
 	shanyaozhixing: './assets/images/shanyaozhixing.jpg',
 	qiumishenghui: './assets/images/qiumishenghui.jpg',
 	jingcaidingge: './assets/images/jingcaidingge.jpg',
 	ranqingqiuchang: './assets/images/ranqingqiuchang.jpg',
+
+	Rshanyaozhixing: './assets/images/r-shanyaozhixing.jpg',
+	Rqiumishenghui: './assets/images/r-qiumishenghui.jpg',
+	Rjingcaidingge: './assets/images/r-jingcaidingge.jpg',
+	Rranqingqiuchang: './assets/images/r-ranqingqiuchang.jpg',
 	logo: './assets/images/logo.png',
 	sure: './assets/images/sure.png',
 	img1:"./assets/images/1-1.png",

@@ -49,7 +49,7 @@
 
 .zmiti-index-main-ui.show {
   opacity: 1;
-  z-index: 200;
+  z-index: 20;
   background: #fff;
 }
 

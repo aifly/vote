@@ -5,6 +5,7 @@
         {
             "groupname": "闪耀之星",
             "groupimage":"./assets/images/shanyaozhixing.jpg",
+            "groupimage1": "./assets/images/r-shanyaozhixing.jpg",
             "list": [{
                     "id": "1",
                     "title": "酷炫停球",
@@ -53,6 +54,7 @@
         {
             "groupname": "燃情球场",
             "groupimage":"./assets/images/ranqingqiuchang.jpg",
+            "groupimage1": "./assets/images/r-ranqingqiuchang.jpg",
             "list": [{
                 "id": "9",
                 "title": "开张大吉",
@@ -92,6 +94,7 @@
         },{
             "groupname": "球迷盛会",
             "groupimage": "./assets/images/qiumishenghui.jpg",
+            "groupimage1": "./assets/images/r-qiumishenghui.jpg",
             "list": [{
                 "id": "16",
                 "title": "双子座",
@@ -122,6 +125,7 @@
         {
             "groupname": "精彩定格",
             "groupimage":"./assets/images/jingcaidingge.jpg",
+            "groupimage1": "./assets/images/r-jingcaidingge.jpg",
             "list": [{
                 "id": "21",
                 "title": "亏大发了",

@@ -16,7 +16,7 @@ $bgColor: #4081dd;
 
 	&.show{
 		opacity: 1;
-		z-index: 200;
+		z-index: 20;
 		background:#fff;
 	}
 
@@ -52,6 +52,7 @@ $bgColor: #4081dd;
 
 		.zmiti-sure{
 			padding: 60px 0;
+			
 			width: 450px;
 			margin: 0px auto;
 			float: left;
